@@ -39,4 +39,4 @@ In this project I make a Data Exploration Analysis of the Covid 19 dataset where
 
 
 
-- If you have the link to the Tableau Project: https://public.tableau.com/app/profile/nicolas.klaver/viz/Project_Covid_16740827288160/Dashboard1
+- If you have the link to the Tableau Project: [Link - Tableau](https://public.tableau.com/app/profile/nicolas.klaver/viz/Project_Covid_16740827288160/Dashboard1)
