@@ -6,12 +6,12 @@ In this project I make a Data Exploration Analysis of the Covid 19 dataset where
 
 
 ### Data:
-
 url: https://ourworldindata.org/covid-deaths
 
-**data_exploration.sql:** contains all the first steps to understand the data.
 
+
+**data_exploration.sql:** contains all the first steps to understand the data.
  **tables_tabluea.sql:** contains all the tables that we select to use for the next Project.
 
 
-
+If you have the link to the Tableau Project: https://public.tableau.com/app/profile/nicolas.klaver/viz/Project_Covid_16740827288160/Dashboard1
