@@ -21,19 +21,19 @@ In this project I make a Data Exploration Analysis of the Covid 19 dataset where
 -  We see the maximum cases that occurred in a Location and the percentage that it represents in its Population.
 ![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_1.png)
 ##### Result:
-![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_1_res.png)
+  ![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_1_res.png)
 
 ##### Second Query:
 - We see the global numbers of total cases, total deaths and death percentage.
 ![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_2.png)
 ##### Result:
-![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_2_res.png)
+  ![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_2_res.png)
 
 ##### Third Query
 - We join the table of deaths and vaccinated to see the percent of people vaccinated related to its population.
 ![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_3.png)
 ##### Result:
-![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_3_res2.png)
+ ![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_3_res2.png)
 
 
 
