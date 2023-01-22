@@ -27,7 +27,7 @@ In this project I make a Data Exploration Analysis of the Covid 19 dataset where
 
 #### Third view
 ![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_3.png)
-![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_3_res.png)
+![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_3_res2.png)
 
 
 
