@@ -12,7 +12,6 @@ In this project I make a Data Exploration Analysis of the Covid 19 dataset where
 
 ### Files
 - data_exploration.sql: contains all the first steps to understand the data.
-- tables_tabluea.sql: contains all the tables that we select to use for the next Project.
 
 
 ### Examples of some Queries
