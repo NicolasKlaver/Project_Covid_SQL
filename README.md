@@ -2,19 +2,19 @@
 In this project I make a Data Exploration Analysis of the Covid 19 dataset where we look correlations to create tables and visualize the results in Tableau in a future project.
 
 
-### Skills used: 
+#### Skills used: 
 - Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.
 
 
-### Data:
+#### Data:
 - url: https://ourworldindata.org/covid-deaths
 
 
-### Files
+#### Files
 - data_exploration.sql: contains all the first steps to understand the data.
 
 
-### Examples of some Queries
+## Examples of some Queries
 
 ##### First Query:
 -  We see the maximum cases that occurred in a Location and the percentage that it represents in its Population.
@@ -38,5 +38,5 @@ In this project I make a Data Exploration Analysis of the Covid 19 dataset where
 
 
 
-- If you want to see the Tableau Project: [Link - Project](https://github.com/NicolasKlaver/Project_Covid_Tableau)
-- If you want to see the Dashboard: [Link - Tableau](https://public.tableau.com/app/profile/nicolas.klaver/viz/Project_Covid_16740827288160/Dashboard1)
+###### If you want to see the Tableau Project: [Link - Project](https://github.com/NicolasKlaver/Project_Covid_Tableau)
+###### If you want to see the Dashboard: [Link - Tableau](https://public.tableau.com/app/profile/nicolas.klaver/viz/Project_Covid_16740827288160/Dashboard1)
