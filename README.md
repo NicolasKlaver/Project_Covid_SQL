@@ -15,22 +15,28 @@ In this project I make a Data Exploration Analysis of the Covid 19 dataset where
 - tables_tabluea.sql: contains all the tables that we select to use for the next Project.
 
 
-### Analysis of some Queries
+### Examples of some Queries
 
-#### First view:
+##### First Query:
+-  We see the maximum cases that occurred in a Location and the percentage that it represents in its Population.
 ![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_1.png)
+##### Result:
 ![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_1_res.png)
 
-#### Second view
+##### Second Query:
+- We see the global numbers of total cases, total deaths and death percentage.
 ![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_2.png)
+##### Result:
 ![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_2_res.png)
 
-#### Third view
+##### Third Query
+- We join the table of deaths and vaccinated to see the percent of people vaccinated related to its population.
 ![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_3.png)
+##### Result:
 ![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_3_res2.png)
 
 
 
 
 
-If you have the link to the Tableau Project: https://public.tableau.com/app/profile/nicolas.klaver/viz/Project_Covid_16740827288160/Dashboard1
+- If you have the link to the Tableau Project: https://public.tableau.com/app/profile/nicolas.klaver/viz/Project_Covid_16740827288160/Dashboard1
