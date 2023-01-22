@@ -15,18 +15,19 @@ In this project I make a Data Exploration Analysis of the Covid 19 dataset where
 - tables_tabluea.sql: contains all the tables that we select to use for the next Project.
 
 
-### Analysis
+### Analysis of some Queries
 
+#### First view:
+![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_1.png)
+![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_1_res.png)
 
-![]()
+#### Second view
+![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_2.png)
+![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_2_res.png)
 
-
-
-
-
-
-
-
+#### Third view
+![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_3.png)
+![](https://github.com/NicolasKlaver/Project_Covid_SQL/blob/main/img/query_3_res.png)
 
 
 
